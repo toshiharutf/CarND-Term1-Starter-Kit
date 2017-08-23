@@ -36,3 +36,6 @@ Supported Systems : AWS (CPU, [GPU](doc/docker_for_aws.md)), Linux (CPU), Mac (C
 #Trouble Shooting
 
 If you get an Import Error on cv2 and have ROS installed. See (here)[https://stackoverflow.com/questions/43019951/after-install-ros-kinetic-cannot-import-opencv#]
+
+# Installation commands for conda
+conda env create -f environment.yml
